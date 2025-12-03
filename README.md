@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I’m [neqarange]
 
-<!--
-**neqarange/neqarange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 Who am I?
+I am a student and I study software development.
 
-Here are some ideas to get you started:
+## 🔧 What am I working on?
+I am currently working on a project called **appShoppingList**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What tools do I use?
+Here are the tools and technologies I work with:
+
+- VS Code  
+- SQL Developer  
+- Sublime Text  
+- Node.js  
+- React  
+- Express.js  
+- Git  
+- Tailwind CSS  
+- MongoDB  
+- PL/SQL  
+
+## 📫 How to reach me?
+You can contact me here on GitHub.
