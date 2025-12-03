@@ -9,7 +9,7 @@ I am currently working on a project called **appShoppingList**.
 ## 🛠️ What tools do I use?
 - VS Code  - SQL Developer  - Sublime Text  - Node.js  
 - React  - Express.js  - Git  - Tailwind CSS  
-- MongoDB  - PL/SQL  
+- MongoDB  - PL/SQL  - Sourcetree - Docker - Figma
 
 ## 📫 How to reach me?
 You can contact me here on GitHub.
